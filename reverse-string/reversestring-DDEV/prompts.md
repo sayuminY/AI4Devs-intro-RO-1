@@ -1,3 +1,5 @@
+CHATBOT: Claude 3.7 Sonnet
+
 Quiero hacer una página html que se encargue de invertir una cadena ingresada por el usuario en un campo.
 
 Tengo dos archivos, un index.html y un script.js. El script.js está vacío y el index.html tiene el siguiente contenido:
